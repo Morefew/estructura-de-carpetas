@@ -3,8 +3,8 @@
 Script de Unix y Windows para crear en un directorio/carpeta nuevo una estructura básica de directorios/carpetas para proyectos de desarrollo.
 
 ## Pasos:
-1. Crear la carpeta de desarrollo.
-2. Abrir la carpeta de desarrollo en VSCode (file / open folder).
+1. Crear el directorio de desarrollo.
+2. Abrir el directorio de desarrollo en VSCode (file / open folder).
 3. Abrir la terminal en VSCode: 
 	```
 	Comando de Teclado EN: Ctrl + Shift + `
