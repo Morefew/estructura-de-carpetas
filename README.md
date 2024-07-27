@@ -1,6 +1,6 @@
 # Script para creación de estructura básica de carpetas.
 
-Script de Unix y Windows para crear una estructura básica de carpetas para proyectos de desarrollo.
+Script de Unix y Windows para crear en un directorio/carpeta nuevo una estructura básica de directorios/carpetas para proyectos de desarrollo.
 
 ## Pasos:
 1. Crear la carpeta de desarrollo.
