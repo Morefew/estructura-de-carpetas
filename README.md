@@ -1,7 +1,17 @@
 # Script para creación de estructura básica de carpetas.
 
-Script de Unix y Windows para crear una estructura básica de carpetas para proyectos de desarrollo. Copiar y Pegar en la terminal.
+Script de Unix y Windows para crear una estructura básica de carpetas para proyectos de desarrollo.
 
+## Pasos:
+1. Crear la carpeta de desarrollo.
+2. Abrir la carpeta de desarrollo en VSCode (file / open folder).
+3. Abrir la terminal en VSCode: 
+	```
+	Comando de Teclado EN: Ctrl + Shift + `
+	Comando de Teclado ES: Ctrl + ñ
+	 ```
+4. Copiar el script que corresponde a tu sistema.
+5. Pegar en la terminal.
 
 ## PowerShell (Windows)
 ``` powershell
