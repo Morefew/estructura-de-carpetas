@@ -19,7 +19,7 @@ Script de Unix y Windows para crear en un directorio/carpeta nuevo una estructur
 New-Item -ItemType Directory -Path .\public, .\src, .\views, .\public\css, .\public\js, .\public\imgs, .\src\routes, .\src\controllers, .\src\models, .\src\db, .\views\partials
 
 # Crea archivos
-New-Item -ItemType File -Path .\.gitignore, .\public\home.html, .\public\css\styles.css, .\public\js\script.js, .\src\app.js, .\src\db\dbconnection.js, .\src\routes\home.routes.js, .\src\controllers\home.controller.js, .\src\models\home.model.js, .\views\partials\header.hbs, .\views\partials\footer.hbs
+New-Item -ItemType File -Path .\.gitignore, .\public\home.html, .\public\css\styles.css, .\public\js\script.js, .\src\app.js, .\src\db\dbconnection.js, .\src\routes\home.routes.js, .\src\controllers\home.controller.js, .\src\models\home.model.js, .\views\index.hbs ,.\views\partials\header.hbs, .\views\partials\footer.hbs
 ```
 
 ## UNIX (Linux/Mac)
